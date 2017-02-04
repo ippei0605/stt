@@ -1,5 +1,5 @@
 # Speech to Text サンプル
-[speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk/releases) を使用して、Watson Speech to Text による音声認識をさせる画面を作成しました。  
+[speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk/releases) を使用して、Watson Speech to Text (STT) による音声認識をさせる画面を作成しました。  
 現在、コーパス、ワード登録および確認用の画面を作成中です。。。
 
 

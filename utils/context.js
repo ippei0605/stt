@@ -1,5 +1,5 @@
 /**
- * Speech to Text: コンテキスト
+ * STT: コンテキスト
  *
  * @module utils/context
  * @author Ippei SUZUKI

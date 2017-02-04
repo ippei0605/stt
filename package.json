@@ -1,5 +1,5 @@
 {
-  "name": "speech-to-text",
+  "name": "stt",
   "version": "1.0.0",
   "description": "Speech to Text",
   "private": true,
@@ -13,6 +13,7 @@
     "express": "~4.13.4",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
-    "watson-developer-cloud": "~2.15.2"
+    "vcap_services": "~0.2.0",
+    "watson-developer-cloud": "~2.17.0"
   }
 }
