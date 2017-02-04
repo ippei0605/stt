@@ -8,7 +8,7 @@
 var context = require('../utils/context');
 
 
-/** Q&A 画面を表示する。 */
+/** 画面を表示する。 */
 exports.index = function (req, res) {
     res.render('index');
 };
