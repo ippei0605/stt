@@ -25,7 +25,7 @@ var watson = require('watson-developer-cloud');
 var sttCreds = vcapServices.getCredentials('speech_to_text');
 
 /**
- * Watson Authorization
+ * STT 認証サービス
  * @see {https://github.com/watson-developer-cloud/node-sdk#authorization}
  */
-exports.watsonAuthorization = new watson.AuthorizationV1(sttCreds);
+exports.sttAuth = new watson.AuthorizationV1(sttCreds);
